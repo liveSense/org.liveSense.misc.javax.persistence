@@ -19,7 +19,7 @@
     <name>liveSense javax.persistence extension</name>
 
     <description>
-        This bundle exports Hibernate JPA-2.0 Specification
+        This bundle exports Javax Persistence 1.0 Specification
     </description>
 
     <build>
@@ -32,7 +32,7 @@
                     <instructions>
                         <Bundle-Category>liveSense</Bundle-Category>
                         <Export-Package>javax.persistence.*</Export-Package>
-                        <Embed-Dependency>hibernate-jpa-2.0-api;inline=true</Embed-Dependency>
+                        <Embed-Dependency>persistence-api;inline=true</Embed-Dependency>
                     </instructions>
                 </configuration>
             </plugin>
@@ -41,9 +41,9 @@
     </build>
     <dependencies>
     	<dependency>
-    		<groupId>org.hibernate.javax.persistence</groupId>
-    		<artifactId>hibernate-jpa-2.0-api</artifactId>
-    		<version>1.0.1.Final</version>
+    		<groupId>javax.persistence</groupId>
+    		<artifactId>persistence-api</artifactId>
+    		<version>1.0</version>
     	</dependency>
     </dependencies>
 </project>
