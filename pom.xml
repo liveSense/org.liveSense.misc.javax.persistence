@@ -11,9 +11,7 @@
       <url>https://github.com/liveSense/org.liveSense.misc.javax.persistence</url>
   </scm>  
 
-
     <artifactId>org.liveSense.misc.javax.persistence</artifactId>
-    <groupId>org.liveSense</groupId>
     <version>1.0.1-SNAPSHOT</version>
     <packaging>bundle</packaging>
     <name>liveSense javax.persistence extension</name>
