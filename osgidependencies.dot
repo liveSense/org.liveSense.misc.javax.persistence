@@ -1,0 +1,4 @@
+digraph {
+	node[shape=record, fontname="Arial", fontsize=8]node [style=filled, fillcolor=yellow, label= "{liveSense :: Extension :: javax.persistence | org.liveSense.misc.javax.persistence(2-SNAPSHOT)}"] org_liveSense_misc_javax_persistence;
+}
+
