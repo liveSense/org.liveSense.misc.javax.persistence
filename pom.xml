@@ -10,11 +10,11 @@
       <version>2-SNAPSHOT</version>
 		<relativePath>..</relativePath>
   </parent>
-  <scm>
-      <connection>scm:git:git://github.com/liveSense/org.liveSense.misc.javax.persistence.git</connection>
-      <developerConnection>scm:git:git://github.com/liveSense/org.liveSense.misc.javax.persistence.git</developerConnection>
-      <url>https://github.com/liveSense/org.liveSense.misc.javax.persistence</url>
-  </scm>  
+	<scm>
+		<connection>scm:git:https://github.com/liveSense/org.liveSense.misc.javax.persistence.git</connection>
+		<developerConnection>scm:git:https://github.com/liveSense/org.liveSense.misc.javax.persistence.git</developerConnection>
+		<url>https://github.com/liveSense/org.liveSense.misc.javax.persistence</url>
+	</scm>
 
     <artifactId>org.liveSense.misc.javax.persistence</artifactId>
     <version>1.0.1-1.0-SNAPSHOT</version>
